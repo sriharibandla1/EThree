@@ -3,7 +3,7 @@
 //  EThree
 //
 //  Created by Hari on 02/06/19.
-//  Copyright © 2019 Lancius. All rights reserved.
+//  Copyright © 2019 -- 22000,dms mdfndsm,dsf,ndfsdfmnnm,d,ns, Lancius. All rights reserved.
 //
 
 #import "ViewController.h"

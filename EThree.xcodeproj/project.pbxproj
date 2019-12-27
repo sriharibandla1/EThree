@@ -14,6 +14,25 @@
 		47A45A4922A38E2A00C0C8B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47A45A4822A38E2A00C0C8B7 /* Assets.xcassets */; };
 		47A45A4C22A38E2A00C0C8B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47A45A4A22A38E2A00C0C8B7 /* LaunchScreen.storyboard */; };
 		47A45A4F22A38E2A00C0C8B7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A4E22A38E2A00C0C8B7 /* main.m */; };
+		47A45A5722A38F0300C0C8B7 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A5622A38F0300C0C8B7 /* HomeViewController.m */; };
+		47A45A5A22A39DC000C0C8B7 /* RestaurantItemsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A5822A39DBF00C0C8B7 /* RestaurantItemsViewController.m */; };
+		47A45A5D22A39DDE00C0C8B7 /* CartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A5C22A39DDE00C0C8B7 /* CartViewController.m */; };
+		47A45A6022A39E4C00C0C8B7 /* EThreeCardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A5E22A39E4C00C0C8B7 /* EThreeCardViewController.m */; };
+		47A45A6222A39E9200C0C8B7 /* QRScanner in Resources */ = {isa = PBXBuildFile; fileRef = 47A45A6122A39E9100C0C8B7 /* QRScanner */; };
+		47A45A6422A39EA100C0C8B7 /* SupportedFiles in Resources */ = {isa = PBXBuildFile; fileRef = 47A45A6322A39EA100C0C8B7 /* SupportedFiles */; };
+		47A45A6722A39EB000C0C8B7 /* AddMoneyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A6522A39EAF00C0C8B7 /* AddMoneyViewController.m */; };
+		47A45A6A22A39EBE00C0C8B7 /* CheckOutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A6822A39EBD00C0C8B7 /* CheckOutViewController.m */; };
+		47A45A6D22A39ED500C0C8B7 /* LogInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A6B22A39ED500C0C8B7 /* LogInViewController.m */; };
+		47A45A7222A39EE100C0C8B7 /* OrdersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A7022A39EE100C0C8B7 /* OrdersViewController.m */; };
+		47A45A7322A39EE100C0C8B7 /* OrderDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A7122A39EE100C0C8B7 /* OrderDetailsViewController.m */; };
+		47A45A7522A39EF800C0C8B7 /* paytmSDK in Resources */ = {isa = PBXBuildFile; fileRef = 47A45A7422A39EF700C0C8B7 /* paytmSDK */; };
+		47A45A8022A39F4A00C0C8B7 /* TabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A7622A39F4800C0C8B7 /* TabBarViewController.m */; };
+		47A45A8122A39F4A00C0C8B7 /* TransactionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A7822A39F4800C0C8B7 /* TransactionsViewController.m */; };
+		47A45A8222A39F4A00C0C8B7 /* VerifyOtpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A7922A39F4800C0C8B7 /* VerifyOtpViewController.m */; };
+		47A45A8322A39F4A00C0C8B7 /* RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A7A22A39F4800C0C8B7 /* RegisterViewController.m */; };
+		47A45A8422A39F4A00C0C8B7 /* SuccessViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A7D22A39F4900C0C8B7 /* SuccessViewController.m */; };
+		47A45A8922A3C9FD00C0C8B7 /* ProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A8522A3C9FC00C0C8B7 /* ProfileViewController.m */; };
+		47A45A8A22A3C9FD00C0C8B7 /* PlayZoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47A45A8622A3C9FD00C0C8B7 /* PlayZoneViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +47,41 @@
 		47A45A4B22A38E2A00C0C8B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		47A45A4D22A38E2A00C0C8B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47A45A4E22A38E2A00C0C8B7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		47A45A5522A38F0200C0C8B7 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		47A45A5622A38F0300C0C8B7 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		47A45A5822A39DBF00C0C8B7 /* RestaurantItemsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestaurantItemsViewController.m; sourceTree = "<group>"; };
+		47A45A5922A39DBF00C0C8B7 /* RestaurantItemsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestaurantItemsViewController.h; sourceTree = "<group>"; };
+		47A45A5B22A39DDE00C0C8B7 /* CartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CartViewController.h; sourceTree = "<group>"; };
+		47A45A5C22A39DDE00C0C8B7 /* CartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CartViewController.m; sourceTree = "<group>"; };
+		47A45A5E22A39E4C00C0C8B7 /* EThreeCardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EThreeCardViewController.m; sourceTree = "<group>"; };
+		47A45A5F22A39E4C00C0C8B7 /* EThreeCardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EThreeCardViewController.h; sourceTree = "<group>"; };
+		47A45A6122A39E9100C0C8B7 /* QRScanner */ = {isa = PBXFileReference; lastKnownFileType = folder; path = QRScanner; sourceTree = "<group>"; };
+		47A45A6322A39EA100C0C8B7 /* SupportedFiles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = SupportedFiles; sourceTree = "<group>"; };
+		47A45A6522A39EAF00C0C8B7 /* AddMoneyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddMoneyViewController.m; sourceTree = "<group>"; };
+		47A45A6622A39EAF00C0C8B7 /* AddMoneyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddMoneyViewController.h; sourceTree = "<group>"; };
+		47A45A6822A39EBD00C0C8B7 /* CheckOutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CheckOutViewController.m; sourceTree = "<group>"; };
+		47A45A6922A39EBD00C0C8B7 /* CheckOutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CheckOutViewController.h; sourceTree = "<group>"; };
+		47A45A6B22A39ED500C0C8B7 /* LogInViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogInViewController.m; sourceTree = "<group>"; };
+		47A45A6C22A39ED500C0C8B7 /* LogInViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogInViewController.h; sourceTree = "<group>"; };
+		47A45A6E22A39EE100C0C8B7 /* OrderDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrderDetailsViewController.h; sourceTree = "<group>"; };
+		47A45A6F22A39EE100C0C8B7 /* OrdersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrdersViewController.h; sourceTree = "<group>"; };
+		47A45A7022A39EE100C0C8B7 /* OrdersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrdersViewController.m; sourceTree = "<group>"; };
+		47A45A7122A39EE100C0C8B7 /* OrderDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrderDetailsViewController.m; sourceTree = "<group>"; };
+		47A45A7422A39EF700C0C8B7 /* paytmSDK */ = {isa = PBXFileReference; lastKnownFileType = folder; path = paytmSDK; sourceTree = "<group>"; };
+		47A45A7622A39F4800C0C8B7 /* TabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarViewController.m; sourceTree = "<group>"; };
+		47A45A7722A39F4800C0C8B7 /* TabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarViewController.h; sourceTree = "<group>"; };
+		47A45A7822A39F4800C0C8B7 /* TransactionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TransactionsViewController.m; sourceTree = "<group>"; };
+		47A45A7922A39F4800C0C8B7 /* VerifyOtpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VerifyOtpViewController.m; sourceTree = "<group>"; };
+		47A45A7A22A39F4800C0C8B7 /* RegisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterViewController.m; sourceTree = "<group>"; };
+		47A45A7B22A39F4900C0C8B7 /* VerifyOtpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VerifyOtpViewController.h; sourceTree = "<group>"; };
+		47A45A7C22A39F4900C0C8B7 /* TransactionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TransactionsViewController.h; sourceTree = "<group>"; };
+		47A45A7D22A39F4900C0C8B7 /* SuccessViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SuccessViewController.m; sourceTree = "<group>"; };
+		47A45A7E22A39F4900C0C8B7 /* RegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterViewController.h; sourceTree = "<group>"; };
+		47A45A7F22A39F4A00C0C8B7 /* SuccessViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuccessViewController.h; sourceTree = "<group>"; };
+		47A45A8522A3C9FC00C0C8B7 /* ProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProfileViewController.m; sourceTree = "<group>"; };
+		47A45A8622A3C9FD00C0C8B7 /* PlayZoneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayZoneViewController.m; sourceTree = "<group>"; };
+		47A45A8722A3C9FD00C0C8B7 /* PlayZoneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayZoneViewController.h; sourceTree = "<group>"; };
+		47A45A8822A3C9FD00C0C8B7 /* ProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfileViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +118,41 @@
 				47A45A3D22A38E2600C0C8B7 /* AppDelegate.m */,
 				47A45A3F22A38E2600C0C8B7 /* ViewController.h */,
 				47A45A4022A38E2600C0C8B7 /* ViewController.m */,
+				47A45A5522A38F0200C0C8B7 /* HomeViewController.h */,
+				47A45A5622A38F0300C0C8B7 /* HomeViewController.m */,
+				47A45A5922A39DBF00C0C8B7 /* RestaurantItemsViewController.h */,
+				47A45A5822A39DBF00C0C8B7 /* RestaurantItemsViewController.m */,
+				47A45A5B22A39DDE00C0C8B7 /* CartViewController.h */,
+				47A45A5C22A39DDE00C0C8B7 /* CartViewController.m */,
+				47A45A5F22A39E4C00C0C8B7 /* EThreeCardViewController.h */,
+				47A45A5E22A39E4C00C0C8B7 /* EThreeCardViewController.m */,
+				47A45A6622A39EAF00C0C8B7 /* AddMoneyViewController.h */,
+				47A45A6522A39EAF00C0C8B7 /* AddMoneyViewController.m */,
+				47A45A6922A39EBD00C0C8B7 /* CheckOutViewController.h */,
+				47A45A6822A39EBD00C0C8B7 /* CheckOutViewController.m */,
+				47A45A6C22A39ED500C0C8B7 /* LogInViewController.h */,
+				47A45A6B22A39ED500C0C8B7 /* LogInViewController.m */,
+				47A45A6E22A39EE100C0C8B7 /* OrderDetailsViewController.h */,
+				47A45A7122A39EE100C0C8B7 /* OrderDetailsViewController.m */,
+				47A45A6F22A39EE100C0C8B7 /* OrdersViewController.h */,
+				47A45A7022A39EE100C0C8B7 /* OrdersViewController.m */,
+				47A45A7E22A39F4900C0C8B7 /* RegisterViewController.h */,
+				47A45A7A22A39F4800C0C8B7 /* RegisterViewController.m */,
+				47A45A7F22A39F4A00C0C8B7 /* SuccessViewController.h */,
+				47A45A7D22A39F4900C0C8B7 /* SuccessViewController.m */,
+				47A45A7722A39F4800C0C8B7 /* TabBarViewController.h */,
+				47A45A7622A39F4800C0C8B7 /* TabBarViewController.m */,
+				47A45A7C22A39F4900C0C8B7 /* TransactionsViewController.h */,
+				47A45A7822A39F4800C0C8B7 /* TransactionsViewController.m */,
+				47A45A7B22A39F4900C0C8B7 /* VerifyOtpViewController.h */,
+				47A45A7922A39F4800C0C8B7 /* VerifyOtpViewController.m */,
+				47A45A8722A3C9FD00C0C8B7 /* PlayZoneViewController.h */,
+				47A45A8622A3C9FD00C0C8B7 /* PlayZoneViewController.m */,
+				47A45A8822A3C9FD00C0C8B7 /* ProfileViewController.h */,
+				47A45A8522A3C9FC00C0C8B7 /* ProfileViewController.m */,
+				47A45A6122A39E9100C0C8B7 /* QRScanner */,
+				47A45A6322A39EA100C0C8B7 /* SupportedFiles */,
+				47A45A7422A39EF700C0C8B7 /* paytmSDK */,
 				47A45A4222A38E2600C0C8B7 /* Main.storyboard */,
 				47A45A4822A38E2A00C0C8B7 /* Assets.xcassets */,
 				47A45A4A22A38E2A00C0C8B7 /* LaunchScreen.storyboard */,
@@ -133,7 +222,10 @@
 			files = (
 				47A45A4C22A38E2A00C0C8B7 /* LaunchScreen.storyboard in Resources */,
 				47A45A4922A38E2A00C0C8B7 /* Assets.xcassets in Resources */,
+				47A45A6222A39E9200C0C8B7 /* QRScanner in Resources */,
 				47A45A4422A38E2600C0C8B7 /* Main.storyboard in Resources */,
+				47A45A6422A39EA100C0C8B7 /* SupportedFiles in Resources */,
+				47A45A7522A39EF800C0C8B7 /* paytmSDK in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,9 +237,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				47A45A4122A38E2600C0C8B7 /* ViewController.m in Sources */,
+				47A45A8322A39F4A00C0C8B7 /* RegisterViewController.m in Sources */,
+				47A45A7322A39EE100C0C8B7 /* OrderDetailsViewController.m in Sources */,
+				47A45A8922A3C9FD00C0C8B7 /* ProfileViewController.m in Sources */,
+				47A45A8022A39F4A00C0C8B7 /* TabBarViewController.m in Sources */,
 				47A45A4722A38E2600C0C8B7 /* EThree.xcdatamodeld in Sources */,
+				47A45A6A22A39EBE00C0C8B7 /* CheckOutViewController.m in Sources */,
 				47A45A4F22A38E2A00C0C8B7 /* main.m in Sources */,
+				47A45A6022A39E4C00C0C8B7 /* EThreeCardViewController.m in Sources */,
+				47A45A5722A38F0300C0C8B7 /* HomeViewController.m in Sources */,
+				47A45A5A22A39DC000C0C8B7 /* RestaurantItemsViewController.m in Sources */,
+				47A45A8422A39F4A00C0C8B7 /* SuccessViewController.m in Sources */,
+				47A45A7222A39EE100C0C8B7 /* OrdersViewController.m in Sources */,
+				47A45A6D22A39ED500C0C8B7 /* LogInViewController.m in Sources */,
+				47A45A8222A39F4A00C0C8B7 /* VerifyOtpViewController.m in Sources */,
+				47A45A6722A39EB000C0C8B7 /* AddMoneyViewController.m in Sources */,
+				47A45A8A22A3C9FD00C0C8B7 /* PlayZoneViewController.m in Sources */,
+				47A45A5D22A39DDE00C0C8B7 /* CartViewController.m in Sources */,
 				47A45A3E22A38E2600C0C8B7 /* AppDelegate.m in Sources */,
+				47A45A8122A39F4A00C0C8B7 /* TransactionsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
